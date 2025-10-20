@@ -1,4 +1,4 @@
-Power BI Sample Project - Erhardt Data Analyst sample
+Power BI Sample Project -  Data Analyst
 ======================================================
 
 Files included
